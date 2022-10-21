@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\enum",
+    "\\src\\app\\interface",
+    "\\src\\app\\service",
+    "\\src\\assets",
+    "\\src\\environments"
+  ],
+  "SelectedNode": "\\src\\app\\service\\server.service.ts",
+  "PreviewInSolutionExplorer": false
+}
